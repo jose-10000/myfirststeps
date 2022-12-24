@@ -6,4 +6,4 @@ git config --global --add safe.directory /home/jose/git/primerospasos  // agrega
 git status -s
 git add // agrega el contenido al repositorio
 git commit -m "Agrega un mensaje al commit"
-hola..
+hola...
